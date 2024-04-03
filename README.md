@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img src="https://images4.alphacoders.com/130/1307940.png"/>
 <h1> Hi, I’m Emil! </h1>
 
 <div align = "left">
-👀 Tech enthusiast ready to turn 0s and 1s into a career.<br>  
-🤖 Passionate about app dev, backend, ML, database management, and all things tech. <br> 
-🫂 Seeking Co-op/Internship opportunities to dive deeper into the code.  <br>
-📖 Computer Science Major @ Manhattan College.  <br>
+👀 Tech enthusiast ready to turn 0s and 1s into a career<br>  
+🤖 Passionate about app dev, backend, ML, database management, and all things tech <br> 
+🫂 Seeking Co-op/Internship opportunities to dive deeper into the code  <br>
+📖 Computer Science Major @ Manhattan College <br>
 📫 Connect with me:
 
   </div>
