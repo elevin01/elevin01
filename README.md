@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align = "left">
 👀 Tech enthusiast ready to turn 0s and 1s into a career<br>  
-🤖 Passionate about app dev, backend, ML, database management, and all things tech <br> 
+🤖 Passionate about iOS dev, data science, backend, ML, database management, and all things tech <br> 
 🫂 Seeking Co-op/Internship opportunities to dive deeper into the code  <br>
 📖 Computer Science Major @ Manhattan College <br>
 📫 Connect with me:
