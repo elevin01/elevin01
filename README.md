@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://images4.alphacoders.com/130/1307940.png"/>
+<img src="github-header-image.png"/>
 <h1> Hi, I’m Emil! </h1>
 
 <div align = "left">
