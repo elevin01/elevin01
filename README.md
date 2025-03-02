@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="github-header-image.png"/>
+<img src="github-header-image (1).png"/>
 <h1> Hi, I’m Emil! </h1>
 
 <div align = "left">
